@@ -1,0 +1,64 @@
+.img-bandeira{
+    padding-right: 2px;
+    padding-bottom: 2px;
+}
+
+.meiosPagamento{
+    width:350px;
+    border:1px solid #990000;
+    border-radius: 1px;
+}
+
+.qtdeParcelas{
+    display:none;
+}
+
+.validade{
+    display:none;
+}
+
+.mes{
+    display:none;
+}
+
+.ano{
+    display:none;
+}
+ 
+.cvvLabel{
+    display:none;
+}
+
+.cvv{
+    display:none;
+}
+
+.nomeComp{
+    display:none;
+}
+
+.nomeComprador{
+    display:none;
+}
+
+.btnComprar{
+    display:none;
+}
+ 
+.vlParcelas{
+    display:none;
+}
+
+.valorParcelas{
+    display:none;
+}
+
+.lblCpf{
+    display:none;
+}
+
+.cpfTitCard{
+    display:none;
+}
+
+
